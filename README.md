@@ -1,25 +1,36 @@
-### Hi there 👋
+### Javier Freie Alvarez
 
- [Blog](https://mrfreire.net.net) 
- [Site] (https://finance.mrfreire.net)
- [LinkedIn](https://www.linkedin.com/in/javfreire/) 
+[Blog](https://mrfreire.net.net) 
+[Website](https://finance.mrfreire.net/)
+[LinkedIn](https://www.linkedin.com/in/javfreire/) 
 
+## Profile
 
-**vonfreiren/vonfreiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2012 delivering passion and new ideas to different companies I have worked for, including our valued clients.
 
-Here are some ideas to get you started:
+I’m an engineer with more around 10 years of international experience in product management, software development and business analysis for different companies. More than half of my experience is in middle-management positions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I had the chance of being involved and leading several top-tier projects across different locations.
 
+What I like most about my job is combining the three main aspects I am passionate about:
 
-Currently working on:
+Product Development and Project Management
+Software Development & Applications
+Finance and Investment Management
+Even I consider myself a creative person, I also like taking ideas from different situations, in order to look for any aspect that will improve our products. In order to do so, I also think listening both clients and colleagues in order to get the best from the mix is one of my best attributes.
 
-- finance.mrfreire.net
-- mrfreire.net 
+I think the best investment a person can make is education and continuous learning. For that reason, I’m constantly learning about new topics in order to apply them into my job or my personal projects. In my spare time you will, these are some of the activities I enjoy most:
+
+Jogging
+Investment
+Video games
+Body workout
+Swimming
+Reading
+Learning
+Cycling
+Trail running
+
+More info on:
+- [About](https://mrfreire.net/about)
+- [Books](https://mrfreire.net/books)
