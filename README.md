@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+ [Blog](https://mrfreire.net.net) 
+ [Site] (https://finance.mrfreire.net)
+ [LinkedIn](https://www.linkedin.com/in/javfreire/) 
+
+
 **vonfreiren/vonfreiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Currently working on:
 
-** finance.mrfreire.net **
-** mrfreire.net **
+- finance.mrfreire.net
+- mrfreire.net 
