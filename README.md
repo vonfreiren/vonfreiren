@@ -1,8 +1,8 @@
 ### Javier Freie Alvarez
 
-[Blog](https://mrfreire.net.net) 
-[Website](https://finance.mrfreire.net/)
-[LinkedIn](https://www.linkedin.com/in/javfreire/) 
+- [Website](https://mrfreire.net.net) 
+- [Project](https://finance.mrfreire.net/)
+- [LinkedIn](https://www.linkedin.com/in/javfreire/) 
 
 ## Profile
 
