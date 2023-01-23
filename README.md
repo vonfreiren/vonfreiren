@@ -2,7 +2,7 @@
 
 ## Bio
 
-- [Website](https://mrfreire.net.net) 
+- [Website](https://mrfreire.net) 
 - [Project](https://finance.mrfreire.net/)
 - [LinkedIn](https://www.linkedin.com/in/javfreire/) 
 
