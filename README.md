@@ -1,5 +1,7 @@
 ### Javier Freie Alvarez
 
+## Bio
+
 - [Website](https://mrfreire.net.net) 
 - [Project](https://finance.mrfreire.net/)
 - [LinkedIn](https://www.linkedin.com/in/javfreire/) 
@@ -30,6 +32,8 @@ Reading
 Learning
 Cycling
 Trail running
+
+## Addtional Info
 
 More info on:
 - [About](https://mrfreire.net/about)
