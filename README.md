@@ -1,4 +1,4 @@
-# Javier Freie Alvarez
+# Javier Freire Alvarez
 
 ## Bio
 
