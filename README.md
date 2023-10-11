@@ -20,5 +20,5 @@ Even I consider myself a creative person, I also like taking ideas from differen
 ## Addtional Info
 
 More info on:
-- [About](https://mrfreire.net/about)
-- [Books](https://mrfreire.net/books)
+- [About](https://www.javier.mrfreire.net/about)
+- [Books](https://www.javier.mrfreire.net/books)
