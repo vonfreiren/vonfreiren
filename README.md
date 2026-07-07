@@ -3,6 +3,7 @@
 ## Bio
 
 - [Website](https://mrfreire.net) 
+- [Taxxy — crypto tax software with official forms for 50+ countries](https://www.taxxy.eu)
 - [Project](https://finance.mrfreire.net/)
 - [LinkedIn](https://www.linkedin.com/in/javfreire/) 
 
